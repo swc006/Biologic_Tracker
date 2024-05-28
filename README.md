@@ -1,2 +1,4 @@
 # Biologic_Tracker
-Creates a schedule for a biologic campaign
+Creates a schedule for biologic manufacturing campaigns.
+
+Requires the scheduling excel sheet
